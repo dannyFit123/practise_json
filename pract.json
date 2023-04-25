@@ -1,0 +1,27 @@
+{
+	"tasks": [{
+			"id": 1,
+			"title": "football",
+			"description": "Description for task 1",
+			"location": "Valletta",
+			"date": "1st of Jan",
+			"time": "12:00"
+		},
+		{
+			"id": 2,
+			"title": "basketball",
+			"description": "Description for task 2",
+			"location": "Valletta",
+			"date": "1st of Jan",
+			"time": "12:00"
+		},
+		{
+			"id": 3,
+			"title": "tennis",
+			"description": "Description for task 3",
+			"location": "Valletta",
+			"date": "1st of Jan",
+			"time": "12:00"
+		}
+	]
+}
